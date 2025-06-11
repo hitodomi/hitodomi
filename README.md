@@ -96,6 +96,13 @@ I'm currently exploring and learning the following technologies through personal
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
+## 🏆 **GitHub Trophies (Commits)**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
