@@ -39,11 +39,16 @@
 
 </div>
 
-## 📚 **Tech Stack**
+## 📚 **Currently Learning**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,firebase,nextjs,nodejs,python,vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,python,nodejs,figma,vscode,github" />
 </div>
+
+<p align="center">
+  I'm currently deepening my skills in frontend and web development, especially with <strong>React</strong> and <strong>Next.js</strong>.  
+  I'm also exploring <strong>UI/UX design</strong> using Figma and learning about backend basics.
+</p>
 
 ## 📊 **GitHub Analytics**
 
