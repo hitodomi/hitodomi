@@ -79,7 +79,7 @@ I'm currently exploring and learning the following technologies through personal
 
 ### 💻  **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,c,cpp" />
 </p>
 
 </td>
