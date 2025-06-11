@@ -50,25 +50,37 @@ I'm currently exploring and learning the following technologies through personal
 <td width="50%" align="center" valign="top">
 
 ### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=androidstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
 
 ### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,xcode,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,xcode,git,github" />
+</p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,ai,photoshop" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,photoshop" />
+</p>
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,csharp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,csharp" />
+</p>
 
 </td>
 </tr>
