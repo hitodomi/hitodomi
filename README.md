@@ -25,7 +25,7 @@
 
 ### 👋 **Hi, I'm hitodomi!**
 
-🎓 I'm currently studying **Information Science** in Aichi, Japan.  
+🎓 I'm a student majoring in **Information Science** at [Aichi Institute of Technology](https://www.ait.ac.jp/).  
 ⚛️ I'm mainly working with **React**, building interactive and user-friendly web applications.
 
 🌍 **Location:** Japan 🇯🇵  
@@ -37,6 +37,16 @@
 </tr>
 </table>
 
+</div>
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
