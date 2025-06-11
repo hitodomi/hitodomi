@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+hitodomi+%F0%9F%91%8B;Information+Science+Student+%F0%9F%93%9A;Learning+Flutter+%F0%9F%9A%80;Always+Growing+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+hitodomi+%F0%9F%91%8B;Information+Science+Student+%F0%9F%93%9A;React+Developer+%E2%9A%99%EF%B8%8F;Always+Growing+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,8 +17,8 @@
 <table>
 <tr>
 <td width="200" align="center">
-  <img src="https://img.icons8.com/color/100/flutter.png" width="100" height="100" alt="Flutter Icon" /><br>
-  <strong>Flutter</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100" alt="React Icon" /><br>
+  <strong>React</strong>
 </td>
 
 <td width="400" align="left">
@@ -26,12 +26,12 @@
 ### 👋 **Hi, I'm hitodomi!**
 
 🎓 I'm currently studying **Information Science** in Aichi, Japan.  
-🚀 I'm learning **Flutter** and aiming to become a skilled mobile app developer.  
+⚛️ I'm mainly working with **React**, building interactive and user-friendly web applications.
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** UI/UX, cross-platform development  
+💼 **Focus:** Frontend development, UI/UX design, creative coding  
 ☕ **Powered by:** Music and curiosity  
-🎯 **Goal:** Keep growing and deliver amazing user experiences  
+🎯 **Goal:** To grow as a developer and deliver amazing user experiences  
 
 </td>
 </tr>
