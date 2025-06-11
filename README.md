@@ -41,14 +41,38 @@
 
 ## 📚 **Currently Learning**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,python,nodejs,figma,vscode,github" />
-</div>
-
 <p align="center">
-  I'm currently deepening my skills in frontend and web development, especially with <strong>React</strong> and <strong>Next.js</strong>.  
-  I'm also exploring <strong>UI/UX design</strong> using Figma and learning about backend basics.
+I'm currently exploring and learning the following technologies through personal projects and university studies.
 </p>
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 📱  **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### ☁️  **Backend as a Service (BaaS)**
+<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+
+### 🔧  **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 🗄️  **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+
+### 🎨  **Design**
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+
+### 💻  **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+
+</td>
+</tr>
+</table>
 
 ## 📊 **GitHub Analytics**
 
