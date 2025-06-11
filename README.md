@@ -61,7 +61,7 @@ I'm currently exploring and learning the following technologies through personal
 
 ### 🔧  **Development Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,xcode,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
 </td>
@@ -79,7 +79,7 @@ I'm currently exploring and learning the following technologies through personal
 
 ### 💻  **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,csharp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp" />
 </p>
 
 </td>
