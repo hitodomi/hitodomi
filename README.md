@@ -30,7 +30,7 @@
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Frontend development, UI/UX design, creative coding  
-☕ **Powered by:** Music and curiosity  
+🎧 **Powered by:** Music and curiosity  
 🎯 **Goal:** To grow as a developer and deliver amazing user experiences  
 
 </td>
