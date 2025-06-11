@@ -39,6 +39,12 @@
 
 </div>
 
+## 📚 **Tech Stack**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,nextjs,nodejs,python,vscode,figma,github" />
+</div>
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
